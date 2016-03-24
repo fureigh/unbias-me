@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "Unbias Me",
+  "version": "0.1",
+  "description": "Displays GitHub and LinkedIn profiles with minimal attribution information.",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Unbias Me"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*.github.com/*",
+        "https://*.github.com/*"
+      ],
+      "js": ["jquery-2.2.2.min.js", "github.js"]
+    },
+    {
+      "matches": [
+        "http://*.linkedin.com/*",
+        "https://*.linkedin.com/*"
+      ],
+      "js": ["jquery-2.2.2.min.js", "linkedin.js"]
+    }
+  ]
+}
