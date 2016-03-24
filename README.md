@@ -12,7 +12,7 @@ More than two decades of research have indicated that despite our best efforts, 
 
 ## How do I install it?
 
- 1. [Download the .crx file directly](https://github.com/fureigh/unbias-me/blob/master/unbias-me.crx). If a pop-up appears, click 'Continue'.
+ 1. [Download the .crx file directly](https://github.com/fureigh/unbias-me/blob/master/unbias-me.crx?raw=true). If a pop-up appears, click 'Continue'.
  2. Click the three-line button ("the hamburger") in the top right corner of your browser.
  3. Go to 'More Tools' and then 'Extensions'.
  4. Check the 'Developer mode' box in the upper right corner.
