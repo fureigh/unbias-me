@@ -12,16 +12,18 @@ More than two decades of research have indicated that despite our best efforts, 
 
 ## How do I install it?
 
+It's easy: [install directly from the Chrome web store](https://chrome.google.com/webstore/detail/bghhadboobnoikppffdojcebigmcgmam/)! (It's free.)
+
+## But what if I want to install it manually?
+
+Suit yourself:
+
  1. [Download the .crx file directly](https://github.com/fureigh/unbias-me/blob/master/unbias-me.crx?raw=true). If a pop-up appears, click 'Continue'.
  2. Click the three-line button ("the hamburger") in the top right corner of your browser.
  3. Go to 'More Tools' and then 'Extensions'.
  4. Check the 'Developer mode' box in the upper right corner.
  5. Locate the .crx file you downloaded in step 1.
  6. Drag and drop it onto the Extensions page. Confirm the subsequent pop-ups.
-
-## Why not publish it to the Chrome extensions store?
-
-I will, I'm just about to go to bed.
 
 ## Copyright and license
 
