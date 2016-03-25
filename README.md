@@ -4,7 +4,7 @@ Reducing unconscious bias in reviewing job candidates' online materials.
 
 ## What it is
 
-This is a Chrome extension that hides a candidate's profile picture and name when you're looking at their GitHub or LinkedIn page.
+This is a [Chrome extension](https://chrome.google.com/webstore/detail/bghhadboobnoikppffdojcebigmcgmam/) that hides a candidate's profile picture and name when you're looking at their GitHub or LinkedIn page.
 
 ## Why?
 
@@ -12,18 +12,7 @@ More than two decades of research have indicated that despite our best efforts, 
 
 ## How do I install it?
 
-It's easy: [install directly from the Chrome web store](https://chrome.google.com/webstore/detail/bghhadboobnoikppffdojcebigmcgmam/)! (It's free.)
-
-## But what if I want to install it manually?
-
-Suit yourself:
-
- 1. [Download the .crx file directly](https://github.com/fureigh/unbias-me/blob/master/unbias-me.crx?raw=true). If a pop-up appears, click 'Continue'.
- 2. Click the three-line button ("the hamburger") in the top right corner of your browser.
- 3. Go to 'More Tools' and then 'Extensions'.
- 4. Check the 'Developer mode' box in the upper right corner.
- 5. Locate the .crx file you downloaded in step 1.
- 6. Drag and drop it onto the Extensions page. Confirm the subsequent pop-ups.
+It's easy: **[install directly from the Chrome web store](https://chrome.google.com/webstore/detail/bghhadboobnoikppffdojcebigmcgmam/)**! (It's free.)
 
 ## Copyright and license
 
