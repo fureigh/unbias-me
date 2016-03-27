@@ -16,3 +16,4 @@ $('.write-endorsement').hide();
 $('li.mod > a.result-image').hide();
 $('li.mod > .bd > h3 > a.main-headline').text('Person');
 $('.profile-actions > .katy-button-group').hide();
+$('#siteflow-widget-next').hide();
