@@ -17,6 +17,7 @@
         "http://*.github.com/*",
         "https://*.github.com/*"
       ],
+      "css": ["github.css"],
       "js": ["github.js"]
     },
     {
@@ -24,6 +25,7 @@
         "http://*.linkedin.com/*",
         "https://*.linkedin.com/*"
       ],
+      "css": ["linkedin.css"],
       "js": ["linkedin.js"]
     },
     {
@@ -31,6 +33,7 @@
         "http://*.twitter.com/*",
         "https://*.twitter.com/*"
       ],
+      "css": ["twitter.css"],
       "js": ["twitter.js"]
     }
   ]

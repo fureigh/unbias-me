@@ -1,0 +1,9 @@
+// Twitter:
+
+.account-group strong,
+.js-action-profile-avatar,
+.ProfileCanopy-headerBg img,
+h1.ProfileHeaderCard-name,
+img.ProfileAvatar-image {
+  display: none;
+}
