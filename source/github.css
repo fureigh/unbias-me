@@ -1,0 +1,19 @@
+img.rounded-2 {
+  visibility: hidden;
+}
+
+.vcard-fullname {
+  visibility: hidden;
+}
+
+img.timeline-comment-avatar {
+  visibility: hidden;
+}
+
+.discussion-item img.avatar {
+  visibility: hidden;
+}
+
+.participant-avatar img.avatar {
+  visibility: hidden;
+}
