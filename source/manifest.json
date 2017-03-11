@@ -17,6 +17,7 @@
         "http://*.github.com/*",
         "https://*.github.com/*"
       ],
+      "css": ["github.css"],
       "js": ["github.js"]
     },
     {
