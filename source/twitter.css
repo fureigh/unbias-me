@@ -6,5 +6,5 @@ img.avatar.js-action-profile-avatar,
 h1.ProfileHeaderCard-name,
 .js-retweet-text b,
 img.ProfileAvatar-image {
-  display: none;
+  visibility: hidden;
 }
