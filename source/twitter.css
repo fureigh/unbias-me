@@ -1,0 +1,10 @@
+/* Twitter */
+
+.account-group strong,
+img.avatar.js-action-profile-avatar,
+.ProfileCanopy-headerBg img,
+h1.ProfileHeaderCard-name,
+.js-retweet-text b,
+img.ProfileAvatar-image {
+  visibility: hidden;
+}
